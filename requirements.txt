@@ -5,3 +5,7 @@ numpy
 scikit-learn==1.6.1
 joblib
 pydantic
+requests
+python-multipart
+gunicorn
+httpx
